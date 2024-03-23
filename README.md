@@ -1,1 +1,1 @@
-# mistral-hackathon
+# Misc stuff for a hackathon
